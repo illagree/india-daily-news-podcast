@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>India Daily News</title>
+
+    <link>https://illagree.github.io/india-daily-news-podcast/</link>
+
+    <language>en</language>
+
+    <description>
+      India Daily News brings you daily news in English and Telugu.
+      Covering India, world, business, technology, and sports.
+    </description>
+
+    <itunes:summary>
+      Daily news podcast in English and Telugu.
+      Simple, calm, and easy to understand.
+    </itunes:summary>
+
+    <itunes:author>India Daily News</itunes:author>
+
+    <itunes:owner>
+      <itunes:name>Ramesh Ponnada</itunes:name>
+      <itunes:email>illagree@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:explicit>false</itunes:explicit>
+
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+
+    <itunes:image href="https://illagree.github.io/india-daily-news-podcast/podcast-cover.jpg"/>
+
+    <!--
+      Episodes will be inserted automatically by n8n below.
+      Do not edit manually after automation is enabled.
+    -->
+
+  </channel>
+</rss>
