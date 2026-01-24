@@ -17,14 +17,17 @@
       <itunes:email>illagree@gmail.com</itunes:email>
     </itunes:owner>
 
+    <!-- REQUIRED cover image -->
+    <itunes:image href="https://illagree.github.io/india-daily-news-podcast/cover.jpg"/>
+
     <item>
       <title>India Daily News – Jan 24</title>
       <description>Telugu &amp; English daily news highlights.</description>
 
-	<enclosure
-	  url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_24_2026.mp3"
-	  type="audio/mpeg"
-	  length="20000000" />
+      <enclosure
+        url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_24_2026.mp3"
+        length="20000000"
+        type="audio/mpeg"/>
 
       <guid isPermaLink="false">2026-01-24</guid>
       <pubDate>Fri, 24 Jan 2026 06:00:00 GMT</pubDate>
