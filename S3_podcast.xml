@@ -1,14 +1,35 @@
-<item>
-  <title>India Daily News – Jan 24</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
-  <description>
-    Telugu &amp; English daily news highlights.
-  </description>
+  <channel>
+    <title>India Daily News</title>
+    <link>https://illagree.github.io/india-daily-news-podcast/</link>
+    <description>Daily Telugu &amp; English news updates</description>
+    <language>en-IN</language>
 
-  <enclosure
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <itunes:owner>
+      <itunes:name>Ramesh</itunes:name>
+      <itunes:email>illagree@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <item>
+      <title>India Daily News – Jan 24</title>
+      <description>Telugu &amp; English daily news highlights.</description>
+
+	<enclosure
 	  url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_24_2026.mp3"
-	  type="audio/mpeg" />
+	  type="audio/mpeg"
+	  length="20000000" />
 
-  <guid>2026-01-24</guid>
-  <pubDate>Fri, 24 Jan 2026 06:00:00 GMT</pubDate>
-</item>
+      <guid isPermaLink="false">2026-01-24</guid>
+      <pubDate>Fri, 24 Jan 2026 06:00:00 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
