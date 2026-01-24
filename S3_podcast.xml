@@ -3,22 +3,24 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
-  <channel>
-    <title>India Daily News</title>
-    <link>https://illagree.github.io/india-daily-news-podcast/</link>
-    <description>Daily Telugu &amp; English news updates</description>
-    <language>en-IN</language>
+<channel>
+  <title>India Daily News</title>
+  <link>https://illagree.github.io/india-daily-news-podcast/</link>
+  <description>Daily Telugu &amp; English news updates</description>
+  <language>en-IN</language>
 
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
+  <itunes:author>Ramesh</itunes:author>
+  <itunes:email>illagree@gmail.com</itunes:email>
 
-    <itunes:owner>
-      <itunes:name>Ramesh</itunes:name>
-      <itunes:email>illagree@gmail.com</itunes:email>
-    </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
 
-    <!-- REQUIRED cover image -->
-    <itunes:image href="https://illagree.github.io/india-daily-news-podcast/cover.jpg"/>
+  <itunes:owner>
+    <itunes:name>Ramesh</itunes:name>
+    <itunes:email>illagree@gmail.com</itunes:email>
+  </itunes:owner>
+
+  <itunes:image href="https://illagree.github.io/india-daily-news-podcast/cover.jpg"/>
 
     <item>
       <title>India Daily News – Jan 24</title>
