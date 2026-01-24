@@ -4,7 +4,7 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 <channel>
-  <title>India Daily News</title>
+  <title>India Daily News 2026</title>
   <link>https://illagree.github.io/india-daily-news-podcast/</link>
   <description>Daily Telugu &amp; English news updates</description>
   <language>en-IN</language>
@@ -38,5 +38,6 @@
 
   </channel>
 </rss>
+
 
 
