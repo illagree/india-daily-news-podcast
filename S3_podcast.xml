@@ -27,7 +27,7 @@
       <description>Telugu &amp; English daily news highlights.</description>
 
       <enclosure
-        url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_24_2026.mp3"
+        url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_25_2026.mp3"
         length="20000000"
         type="audio/mpeg"/>
 
@@ -38,4 +38,5 @@
 
   </channel>
 </rss>
+
 
