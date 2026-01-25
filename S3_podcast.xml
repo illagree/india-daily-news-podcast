@@ -23,21 +23,33 @@
   <itunes:image href="https://illagree.github.io/india-daily-news-podcast/cover.jpg"/>
 
     <item>
-      <title>India Daily News – Jan 25</title>
-      <description>Telugu &amp; English daily news highlights.</description>
+      <title>India Daily News – Jan 26</title>
+     <description>
+     HEADLINES:
+     - Exclusive: India to slash tariffs on cars to 40% in trade deal with EU, sources say
+     - Sir Mark Tully, the BBC&apos;s voice of India, dies aged 90
+     - Shocked: Bangladesh protests Sheikh Hasina&apos;s Delhi address, calls her mass murderer | India News
+     - Narsee Monjee College teacher murdered in Mumbai local; 1 arrested
+     - The man killed by a US Border Patrol officer in Minneapolis was an ICU nurse, family says
+     - Monster winter storm brings life to a standstill in US – scenes from New York and other cities
+     - Gmail glitch floods primary inboxes with spam and misclassified emails
+     - Union Budget 2026 to US Fed meet, Q3 results
+     - India opt to bowl in third T20I against New Zealand, Bumrah back
+     </description>
 
       <enclosure
-        url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_25_2026.mp3"
+        url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_26_2026.mp3"
         length="20000000"
         type="audio/mpeg"/>
 
       <guid isPermaLink="false">2026-01-26</guid>
-      <pubDate>Sun, 25 Jan 2026 17:36:00 GMT</pubDate>
+      <pubDate>Sun, 25 Jan 2026 23:30:00 GMT</pubDate>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
   </channel>
 </rss>
+
 
 
 
