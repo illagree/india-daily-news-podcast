@@ -23,7 +23,7 @@
   <itunes:image href="https://illagree.github.io/india-daily-news-podcast/cover.jpg"/>
 
     <item>
-      <title>India Daily News – Jan 24</title>
+      <title>India Daily News – Jan 25</title>
       <description>Telugu &amp; English daily news highlights.</description>
 
       <enclosure
@@ -31,13 +31,14 @@
         length="20000000"
         type="audio/mpeg"/>
 
-      <guid isPermaLink="false">2026-01-26</guid>
-      <pubDate>Fri, 26 Jan 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-01-25</guid>
+      <pubDate>Sat, 25 Jan 2026 06:00:00 GMT</pubDate>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
   </channel>
 </rss>
+
 
 
 
