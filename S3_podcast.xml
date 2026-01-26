@@ -47,8 +47,33 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>India Daily News – Jan 25</title>
+     <description>
+     HEADLINES:
+     - Trump Threatens Canada With 100% Tariffs Over Trade Deal With China
+     - Iran-US tensions LIVE: Iran military says ‘Trump talks a lot’; Khamenei ‘hiding’ in Tehran bunker
+     - Working with Board of Peace is going to be ‘good thing’ for U.N.: Trump
+     - Republic Day: How does India choose its chief guest for 26 January parade
+     - 'He Was A Nurse, Treated Sick Veterans': Family On Minneapolis Immigration Killing
+     - Putin, Zelensky to meet soon? Will US-mediated trilateral talks will end Russia-Ukraine war? What we know
+     - Delhi founder says his confidence collapsed after quitting high-paying Google job: ‘My ego didn’t survive’ | Trending
+     - No ink signature, no official seal: Why India’s Law Ministry refused to deliver US SEC summons to Adani
+     - T20 World Cup row: 'ICC gave Bangladesh warning'
+     </description>
+
+      <enclosure
+        url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_25_2026.mp3"
+        length="20000000"
+        type="audio/mpeg"/>
+
+      <guid isPermaLink="false">2026-01-25</guid>
+      <pubDate>Sat, 24 Jan 2026 23:30:00 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
+
 
 
 
