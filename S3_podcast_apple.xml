@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+<channel>
+  <title>India Daily News 2026</title>
+  <link>https://illagree.github.io/india-daily-news-podcast/</link>
+  <description>Daily Telugu &amp; English news updates</description>
+  <language>en-IN</language>
+
+  <itunes:author>Ramesh</itunes:author>
+  <itunes:email>illagree@gmail.com</itunes:email>
+
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+
+  <itunes:owner>
+    <itunes:name>Ramesh</itunes:name>
+    <itunes:email>illagree@gmail.com</itunes:email>
+  </itunes:owner>
+
+  <itunes:image href="https://illagree.github.io/india-daily-news-podcast/cover_apple.jpg"/>
+
+    <item>
+      <title>India Daily News – Jan 26</title>
+     <description>
+     HEADLINES:
+     - Exclusive: India to slash tariffs on cars to 40% in trade deal with EU, sources say
+     - Sir Mark Tully, the BBC&apos;s voice of India, dies aged 90
+     - Shocked: Bangladesh protests Sheikh Hasina&apos;s Delhi address, calls her mass murderer | India News
+     - Narsee Monjee College teacher murdered in Mumbai local; 1 arrested
+     - The man killed by a US Border Patrol officer in Minneapolis was an ICU nurse, family says
+     - Monster winter storm brings life to a standstill in US – scenes from New York and other cities
+     - Gmail glitch floods primary inboxes with spam and misclassified emails
+     - Union Budget 2026 to US Fed meet, Q3 results
+     - India opt to bowl in third T20I against New Zealand, Bumrah back
+     </description>
+
+      <enclosure
+        url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_26_2026.mp3"
+        length="20000000"
+        type="audio/mpeg"/>
+
+      <guid isPermaLink="false">2026-01-26</guid>
+      <pubDate>Sun, 25 Jan 2026 23:30:00 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>India Daily News – Jan 25</title>
+     <description>
+     HEADLINES:
+     - Trump Threatens Canada With 100% Tariffs Over Trade Deal With China
+     - Iran-US tensions LIVE: Iran military says &apos;Trump talks a lot&apos;; Khamenei &apos;hiding&apos; in Tehran bunker
+     - Working with Board of Peace is going to be &apos;good thing&apos; for U.N.: Trump
+     - Republic Day: How does India choose its chief guest for 26 January parade
+     - He Was A Nurse, Treated Sick Veterans: Family On Minneapolis Immigration Killing
+     - Putin, Zelensky to meet soon? Will US-mediated trilateral talks end Russia-Ukraine war? What we know
+     - Delhi founder says his confidence collapsed after quitting high-paying Google job: My ego didn&apos;t survive | Trending
+     - No ink signature, no official seal: Why India&apos;s Law Ministry refused to deliver US SEC summons to Adani
+     - T20 World Cup row: ICC gave Bangladesh warning
+     </description>
+
+      <enclosure
+        url="https://pub-f287cd4ed8dc492ba8cc2b5a4ba9b8ba.r2.dev/ENG_India_Daily_News_Jan_25_2026.mp3"
+        length="20000000"
+        type="audio/mpeg"/>
+
+      <guid isPermaLink="false">2026-01-25</guid>
+      <pubDate>Sat, 24 Jan 2026 23:30:00 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
